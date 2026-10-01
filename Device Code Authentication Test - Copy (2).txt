@@ -1,0 +1,1 @@
+Hello! Sample text file to test personal GitHub access from Managed Device via **Device Code** Authentication
